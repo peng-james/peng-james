@@ -1,4 +1,6 @@
-## Hi there 👋
+## james peng
+
+cs @ michigan
 
 <!--
 **peng-james/peng-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
