@@ -2,6 +2,10 @@
 
 cs @ michigan
 
+former intern @ google fuchsia
+former intern @ googlesql
+
+
 <!--
 **peng-james/peng-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
