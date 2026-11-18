@@ -2,7 +2,7 @@
 
 cs @ michigan
 
-former intern @ google fuchsia
+former intern @ google fuchsia  
 former intern @ googlesql
 
 
